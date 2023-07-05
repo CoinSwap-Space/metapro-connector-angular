@@ -33,7 +33,7 @@ You should see the version numbers of Node.js and npm printed in the output.
    ```shell
    cd your-repo
 3. Install the project dependencies:
-4. ```shell
+   ```shell
    npm install
 
 ### Usage
