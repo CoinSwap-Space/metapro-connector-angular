@@ -28,10 +28,10 @@ Before you can run this project, you need to have the Angular CLI installed. If 
 
 1. Clone this repository to your local machine:
    ```shell
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/CoinSwap-Space/metapro-connector-angular.git
 2. Change to the project's root directory:
    ```shell
-   cd your-repo
+   cd metapro-connector
 3. Install the project dependencies:
    ```shell
    npm install
