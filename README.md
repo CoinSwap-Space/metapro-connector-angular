@@ -17,8 +17,8 @@ Before you can run this project, you need to have the Angular CLI installed. If 
    ```shell
    node --version
    npm --version
-
-You should see the version numbers of Node.js and npm printed in the output.
+   ```
+   You should see the version numbers of Node.js and npm printed in the output.
    
 4. Install the Angular CLI globally by running the following command in your CLI:
    ```shell
@@ -40,8 +40,8 @@ You should see the version numbers of Node.js and npm printed in the output.
 1. Start the development server by running the following command in the project's root directory:
    ```shell
    npm start
-This command will build the project and start a local development server. Open your web browser and navigate to http://localhost:4200 to see the running application.
-
+   ```
+   This command will build the project and start a local development server. Open your web browser and navigate to http://localhost:4200 to see the running application.
 2. Click the "Connect" button to initiate the connection.
 3. Follow the on-screen instructions to complete the connection process. A QR code will be displayed, which you can scan using a metapro wallet app.
 4. Once connected, you will see the connected status and the accounts associated with the connected wallet, if available.
