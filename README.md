@@ -19,6 +19,7 @@ Before you can run this project, you need to have the Angular CLI installed. If 
    npm --version
 
 You should see the version numbers of Node.js and npm printed in the output.
+   
 4. Install the Angular CLI globally by running the following command in your CLI:
    ```shell
    npm install -g @angular/cli
